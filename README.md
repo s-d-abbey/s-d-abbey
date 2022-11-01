@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Samuel Desmond Abbey Darko.
-- @s.d.abbey
+Hi! there 👋  I’m Samuel Desmond Abbey Darko.
+
 - 👀 I’m interested in Web and Software Development
 - 🌱 I’m currently learning Ruby, Ruby on Rails, FastAPI
 
