@@ -3,7 +3,7 @@ Hi! there 👋  I’m Samuel Desmond Abbey Darko.
 - 👀 I’m interested in Web and Software Development
 - 🌱 I’m currently learning Ruby, Ruby on Rails, FastAPI
 <img src="https://komarev.com/ghpvc/?username=s-d-abbey&style=flat-square&color=blue" alt=""/>
-<div id="badges" float="left">
+<div id="badges" style="display: flex;">
   <a href="https://www.linkedin.com/in/samuel-desmond-abbey-darko-b5586b1b5/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
