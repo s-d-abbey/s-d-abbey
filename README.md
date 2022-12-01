@@ -3,11 +3,11 @@ Hi! there 👋  I’m Samuel Desmond Abbey Darko.
 - 👀 I’m interested in Web and Software Development
 - 🌱 I’m currently learning Ruby, Ruby on Rails, FastAPI
 <div id="badges">
-  <a href="">
+  <a href="https://www.linkedin.com/in/samuel-desmond-abbey-darko-b5586b1b5/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
