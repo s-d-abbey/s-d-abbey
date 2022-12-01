@@ -3,7 +3,7 @@ Hi! there 👋  I’m Samuel Desmond Abbey Darko.
 - 👀 I’m interested in Web and Software Development
 - 🌱 I’m currently learning Ruby, Ruby on Rails, FastAPI
 <img src="https://komarev.com/ghpvc/?username=s-d-abbey&style=flat-square&color=blue" alt=""/>
-<div id="badges" align="center">
+<div id="badges" align="center" float="left">
   <a href="https://www.linkedin.com/in/samuel-desmond-abbey-darko-b5586b1b5/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -23,11 +23,9 @@ Hi! there 👋  I’m Samuel Desmond Abbey Darko.
 </h1>
 
 
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-d-abbey&theme=highcontrast&title_color=5BCDEC&icon_color=5BCDEC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
 
-</div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-d-abbey&theme=highcontrast&title_color=5BCDEC&icon_color=5BCDEC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
