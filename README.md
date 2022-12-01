@@ -24,7 +24,7 @@ Hi! there 👋  I’m Samuel Desmond Abbey Darko.
 
 
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-d-abbey&theme=highcontrast&title_color=5BCDEC&icon_color=5BCDEC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-d-abbey&theme=highcontrast&title_color=5BCDEC&icon_color=5BCDEC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-d-abbey&show_icons=true&theme=highcontrast&title_color=5BCDEC&icon_color=5BCDEC)](https://github.com/anuraghazra/github-readme-stats)
 </div>
