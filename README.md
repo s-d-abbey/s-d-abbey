@@ -1,4 +1,8 @@
-Hi! there 👋  I’m Samuel Desmond Abbey Darko.
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  I’m Samuel Desmond Abbey Darko.
+</h1>  
 
 - 👀 I’m interested in Web and Software Development
 - 🌱 I’m currently learning Ruby, Ruby on Rails, FastAPI
@@ -17,10 +21,7 @@ Hi! there 👋  I’m Samuel Desmond Abbey Darko.
  [![GitHub Streak](https://streak-stats.demolab.com/?user=s-d-abbey&theme=highcontrast&ring=5BCDEC&currStreakLabel=5BCDEC&fire=5BCDEC)](https://git.io/streak-stats)
 
   
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 
 
 
