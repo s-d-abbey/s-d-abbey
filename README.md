@@ -6,14 +6,15 @@ Hi! there 👋  I’m Samuel Desmond Abbey Darko.
   <a href="https://www.linkedin.com/in/samuel-desmond-abbey-darko-b5586b1b5/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.instagram.com/s.d.abbey/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/s_d_abbey">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-d-abbey&show_icons=true&theme=highcontrast&title_color=5BCDEC&icon_color=5BCDEC)](https://github.com/anuraghazra/github-readme-stats)
