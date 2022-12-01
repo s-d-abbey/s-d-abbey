@@ -4,8 +4,6 @@ Hi! there 👋  I’m Samuel Desmond Abbey Darko.
 - 🌱 I’m currently learning Ruby, Ruby on Rails, FastAPI
 
 
-<!---
-s-d-abbey/s-d-abbey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=s-d-abbey&theme=highcontrast)](https://git.io/streak-stats)
+
 [![Abbey's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=s-d-abbey&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
