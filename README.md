@@ -12,10 +12,14 @@ Hi! there 👋  I’m Samuel Desmond Abbey Darko.
   <a href="https://twitter.com/s_d_abbey">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  
+  <img src="https://komarev.com/ghpvc/?username=s-d-abbey&style=flat-square&color=blue" alt=""/>
 </div>
 <div>
-  <img src="https://komarev.com/ghpvc/?username=s-d-abbey&style=flat-square&color=blue" alt=""/>
+  
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-d-abbey&theme=highcontrast&title_color=5BCDEC&icon_color=5BCDEC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
